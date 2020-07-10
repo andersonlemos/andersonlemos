@@ -1,5 +1,5 @@
 # Anderson Lemos 
-[![Linkedin Badge](https://img.shields.io/badge/-andersonlemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonlemos/)](https://www.linkedin.com/in/mausampaio/)
+[![Linkedin Badge](https://img.shields.io/badge/-andersonlemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonlemos/)](https://www.linkedin.com/in/andersonlemos/)
 [![Protonmail Badge](https://img.shields.io/badge/alemos-@protonmail.com-blue?style=flat-circle&logo=protonmail&logoColor=white&link=mailto:alemos@protonmail.com)](alemos@protonmail.com)
 
 ## Hi there 👋
