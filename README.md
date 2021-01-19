@@ -10,3 +10,4 @@ I'm Anderson Lemos, I'm a Full Stack Developer, with over 14 years of experience
 - ⚙️ I use daily: `.js`, `.ts`, `nodejs`, `cloudformation`.
 - 💬 Ask me about everything
 - I :heart: open source!
+![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=andersonlemos&show_icons=true)
