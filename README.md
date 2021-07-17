@@ -1,6 +1,6 @@
 # Anderson Lemos 
-[![Linkedin Badge](https://img.shields.io/badge/-andersonlemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonlemos/)](https://www.linkedin.com/in/andersonlemos/)
-[![Protonmail Badge](https://img.shields.io/badge/alemos-@protonmail.com-blue?style=flat-circle&logo=protonmail&logoColor=white&link=mailto:alemos@protonmail.com)](mailto:alemos@protonmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/andersonmlemos/)](https://www.linkedin.com/in/andersonmlemos/)
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:alemos@protonmail.com)](mailto:alemos@protonmail.com)
 
 ## Hi there 👋
 
