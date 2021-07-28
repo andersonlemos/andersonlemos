@@ -22,7 +22,7 @@ I :heart: open source!
 - ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white),
+- ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![AWSCLOUD](https://img.shields.io/badge/Cloudformation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 - ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![DEBIAN](https://img.shields.io/badge/Debian-232F3E?style=for-the-badge&logo=debian&logoColor=red)
 
