@@ -10,10 +10,10 @@ I believe that **software development is a form of art**, like a piece of good m
 
 I spent the last years studying and applying new software architectures, adding programming languages to my personal toolbox, deploying to cloud environments, leading agile teams, writing posts, and speaking in many events.
 
-<table>
-    <tr>
+<div>
+   <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlemos&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>  
+    </tr> 
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,linux,md,nodejs,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,linux,md,nodejs,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=7)](https://skillicons.dev)
