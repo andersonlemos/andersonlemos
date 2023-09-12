@@ -9,4 +9,4 @@ Book lover, software developer, musicist and Headbanger 🤘.
     </tr>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,linux,md,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,md,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=7)](https://skillicons.dev)
