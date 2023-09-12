@@ -1,6 +1,6 @@
 ## I'm a software developer
 
-II spent the last years studying and applying new software architectures, adding programming languages to my personal toolbox and deploying to cloud environments.
+I spent the last years studying and applying new software architectures, adding programming languages to my personal toolbox and deploying to cloud environments.
 
 Book lover, software developer, musicist and Headbanger 🤘.
 <div>
