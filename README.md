@@ -10,15 +10,12 @@ Book lover, software developer, musicist and Headbanger 🤘.
 
 ❓ Ask me anything 😉  
 
-
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,md,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=7)](https://skillicons.dev)
 </td><td valign="top" width="33%">
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/andersonlemos" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<div align="left">
 <a href="https://twitter.com/oalemos" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
