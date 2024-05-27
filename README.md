@@ -9,14 +9,7 @@ Book lover, software developer, musicist and Headbanger 🤘.
   
 
 ❓ Ask me anything 😉  
-<div>
-   <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlemos&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>
-  <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonlemos&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>
-</div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,javascript,typescript,dotnet,nodejs,nestjs,docker,git,go,md,terraform,dynamodb,postgres,mongodb,mysql,postman,rabbitmq&perline=7)](https://skillicons.dev)
 </td><td valign="top" width="33%">
