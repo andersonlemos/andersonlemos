@@ -17,7 +17,7 @@ Book lover, software developer, musicist and Headbanger 🤘.
 
 ## Connect with me  
 <div align="left">
-<a href="https://twitter.com/oalemos" target="_blank">
+<a href="https://linktr.ee/oalemos" target="_blank">
 <img src="https://img.shields.io/badge/linktree-profile-green" style="margin-bottom: 5px;" />
 </a>
 </div>  
