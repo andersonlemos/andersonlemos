@@ -5,8 +5,9 @@ I spent the last years studying and applying new software architectures, adding 
 Book lover, software developer, musicist and Headbanger 🤘.  
   
 
-🌱 I’m currently learning about [RFC 7807 - Problem Details for HTTP APIs in Error Handling](https://datatracker.ietf.org/doc/html/rfc7807)  
-  
+🌱 I’m currently learning about:
+- [x]-[RFC 7807 - Problem Details for HTTP APIs in Error Handling](https://datatracker.ietf.org/doc/html/rfc7807)  
+- [ ]-[ICSME - Cognitive Driven Development](https://github.com/asouza/pilares-design-codigo/blob/master/ICSME-2020-cognitive-driven-development.pdf) 
 
 ❓ Ask me anything 😉  
 
