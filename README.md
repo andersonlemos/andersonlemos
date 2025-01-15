@@ -6,7 +6,7 @@ Book lover, software developer, musicist and Headbanger 🤘.
   
 
 🌱 I’m currently learning about:
-- [ ] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR)
+- [ ] - <a href="[http://example.com](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR)" target="_blank" rel="noopener">Kubernetes deploy strategies</a>
 - [ ] - [DevContainers](https://containers.dev/)
 - [ ] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
       
