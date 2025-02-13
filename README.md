@@ -7,7 +7,7 @@ Book lover, software developer, musicist and Headbanger 🤘.
 
 🌱 I’m currently learning about:
 - [ ] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR")
-- [ ] - [DevContainers](https://containers.dev/)
+- [X] - [DevContainers](https://containers.dev/)
 - [ ] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
 - [ ] - [The USE Method](https://www.brendangregg.com/usemethod.html)
       
