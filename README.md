@@ -4,14 +4,13 @@ I spent the last years studying and applying new software architectures, adding 
 
 Book lover, software developer, musicist and Headbanger 🤘.
 
-
 🌱 I’m currently learning about:
 
 - [ ] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR")
 - [X] - [DevContainers](https://containers.dev/)
 - [ ] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
 - [X] - [The USE Method](https://www.brendangregg.com/usemethod.html)
-- [ ] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
+- [X] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - [ ] - [AWS](https://www.awseducate.com/)
 
 ❓ Ask me anything 😉
