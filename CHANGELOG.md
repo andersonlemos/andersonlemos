@@ -1,3 +1,9 @@
+## 2.1.0 (2025-03-14)
+
+### Feat
+
+- **markdown-lint-rules**: disable markdown rules
+
 ## 2.0.0 (2025-03-14)
 
 ### Feat
