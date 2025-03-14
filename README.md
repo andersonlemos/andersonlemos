@@ -10,7 +10,7 @@ Book lover, software developer, musicist and Headbanger 🤘.
 - [X] - [DevContainers](https://containers.dev/)
 - [ ] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
 - [X] - [The USE Method](https://www.brendangregg.com/usemethod.html)
-- [X] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
+- [ ] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - [ ] - [AWS](https://www.awseducate.com/)
 
 ❓ Ask me anything 😉
