@@ -6,12 +6,14 @@ Book lover, software developer, musicist and Headbanger 🤘.
 
 🌱 I’m currently learning about:
 
-- [ ] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR")
-- [X] - [DevContainers](https://containers.dev/)
-- [ ] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
-- [X] - [The USE Method](https://www.brendangregg.com/usemethod.html)
-- [ ] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
-- [ ] - [AWS](https://www.awseducate.com/)
+- [X] - ➕ 2025-02-18 [🍅::4] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR")
+- [X] - ➕ 2025-02-18 [🍅::4] - [DevContainers](https://containers.dev/)
+- [X] - ➕ 2025-02-18 [🍅::4] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
+- [X] - ➕ 2025-02-18 [🍅::4] - [The USE Method](https://www.brendangregg.com/usemethod.html)
+- [X] - ➕ 2025-02-18 [🍅::4] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
+- [X] - ➕ 2025-02-18 [🍅::4] - [AWS](https://www.awseducate.com/)
+- [X] - ➕ 2025-02-18 [🍅::4] - [LineageOS](https://lineageos.org/)
+- [X] - ➕ 2025-02-18 [🍅::8] - [TWRP Custom](https://twrp.me/)
 
 ❓ Ask me anything 😉
 
