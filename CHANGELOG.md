@@ -1,3 +1,15 @@
+## 2.2.0 (2025-03-21)
+
+### Feat
+
+- **new-tasks**: update tasks
+- **task-list**: update task list
+- **readme**: update readme information
+
+### Fix
+
+- **reamde-update**: update readme
+
 ## 2.1.0 (2025-03-14)
 
 ### Feat
