@@ -4,17 +4,6 @@ I spent the last years studying and applying new software architectures, adding 
 
 Book lover, software developer, musicist and Headbanger 🤘.
 
-🌱 I’m currently learning about:
-
-- [ ] - ➕ 2025-02-18 | ⌛ 2025-03-14[🍅::3] - [Kubernetes deploy strategies](https://www.udemy.com/course/kubernetes-power-profissional-formacao-inicial-completa/?couponCode=KEEPLEARNINGBR")
-- [X] - ➕ 2025-02-18 | ✅ 2025-03-14[🍅::9] - [DevContainers](https://containers.dev/)
-- [ ] - ➕ 2025-02-18 | ⌛ 2025-03-14[🍅::2] - [Redis cahce strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
-- [X] - ➕ 2025-02-18 | ✅ 2025-03-14[🍅::4] - [The USE Method](https://www.brendangregg.com/usemethod.html)
-- [X] - ➕ 2025-02-10 | ✅ 2025-03-14[🍅::4] - [Cultura e Pŕaticas Devops](https://www.pucminas.br/destaques/Paginas/default.aspx)
-- [ ] - ➕ 2025-02-18 | ⌛ 2025-03-14[🍅::2] - [AWS](https://www.awseducate.com/)
-- [X] - ➕ 2025-03-18 | ✅ 2025-03-20[🍅::4] - [LineageOS](https://lineageos.org/)
-- [X] - ➕ 2025-03-18 | ✅ 2025-03-20[🍅::8] - [TWRP Custom](https://twrp.me/)
-
 ❓ Ask me anything 😉
 
 ## My Skills
